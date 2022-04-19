@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.290625" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/drawable/selector.xml" value="0.290625" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/layout/activity_info_location.xml" value="0.14447463768115942" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/layout/activity_main.xml" value="0.15081521739130435" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/layout/activity_pelaporan_lokasi.xml" value="0.15081521739130435" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/layout/activity_search_location.xml" value="0.14447463768115942" />
+        <entry key="..\:/Kuliah/Semester 6/067080099UTSGA/app/src/main/res/menu/menu_navigation.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
